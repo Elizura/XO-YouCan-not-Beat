@@ -2,7 +2,7 @@
 This is a TicTacToe game AI implemented in Python, using the Minimax algorithm to play against the user. The AI is designed to be unbeatable and makes the best move possible based on the current board state.
 
 ### Important Note:
- The visual aspects of this game were not created by the author of this repository. The code for the game's interface was sourced from this repository, which provided the starting point for the author to implement the Minimax algorithm and other game logic.
+ The visual aspects of this game were not created by me. The code for the game's interface was sourced from this repository, which provided the starting point for the author to implement the Minimax algorithm and other game logic.
 
 ### Installation
 
